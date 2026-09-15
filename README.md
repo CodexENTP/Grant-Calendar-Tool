@@ -1,4 +1,4 @@
-# Codex Analytics — Office Hero Pack: Grant Calendar Tool V1
+# Codex Analytics — Codex Analytics: Grant Calendar Tool V1
 
 A static, client-side GitHub Pages application for building grant calendars and exporting print-ready Excel workbooks.
 
