@@ -34,3 +34,7 @@ Excel import/export uses ExcelJS 4.4.0 loaded from jsDelivr. An internet connect
 
 ## Branding update
 V1 now uses the same Codex Analytics visual language as the Market/Stock Scanner: deep navy workspace and panels, bronze/orange gradient actions, thin bronze header accent, muted blue-gray borders, dark dotted workspace, and the Codex CA / CODEX ANALYTICS header lockup.
+
+
+## Stock Screener Theme Patch
+This build applies the Codex Analytics Stock Screener dark navy/bronze visual system, including bronze-gradient primary buttons and a protected dark header for the Codex logo.
