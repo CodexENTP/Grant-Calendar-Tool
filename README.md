@@ -28,3 +28,9 @@ A static, client-side GitHub Pages application for building grant calendars and 
 
 ## Dependency
 Excel import/export uses ExcelJS 4.4.0 loaded from jsDelivr. An internet connection is required when loading the app unless ExcelJS is later bundled locally.
+
+## Test import file
+`Codex_Grant_Calendar_V1_Test_Import.xlsx` is included for quick validation. It contains 8 representative grant-calendar events, including confirmed deadlines/meetings and tentative site-visit windows. Import it from **Events > Import Events**. Import it a second time to test duplicate detection.
+
+## Branding update
+V1 now uses the same Codex Analytics visual language as the Market/Stock Scanner: deep navy workspace and panels, bronze/orange gradient actions, thin bronze header accent, muted blue-gray borders, dark dotted workspace, and the Codex CA / CODEX ANALYTICS header lockup.
